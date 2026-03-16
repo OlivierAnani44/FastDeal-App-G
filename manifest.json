@@ -1,8 +1,8 @@
 {
-  "name": "FastDeal - Gestion de stock FIFO",
+  "name": "FastDeal - Gestion de stock",
   "short_name": "FastDeal",
   "description": "Suivi des ventes de dollars avec gestion de stock FIFO",
-  "start_url": "/FastDealApp_Pwa/",
+  "start_url": "/FastDeal-App-General/",
   "display": "standalone",
   "background_color": "#121212",
   "theme_color": "#ff8c00",
