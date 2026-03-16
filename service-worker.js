@@ -1,6 +1,6 @@
 const CACHE_NAME = 'fastdeal-v1';
 const urlsToCache = [
-  '/',
+  '/FastDealApp_Pwa/',
   '/index.html',
   '/manifest.json'
   // Ajoutez ici vos icônes si elles sont statiques
